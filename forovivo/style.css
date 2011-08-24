@@ -1,0 +1,371 @@
+/* @override http://www.patrimonioyciudad.colaborativa.eu/wp-content/themes/forovivo/style.css */
+
+/*
+Theme Name: ForoVivo
+Theme URI: http://patrimonioyciudad.dosymedio.org
+Description: Description and is licensed under the <a href="http://www.opensource.org/licenses/gpl-license.php">GPL</a>.
+Version: 1.0
+Author: Colaborativa
+Author URI: http://www.colaborativa.eu/
+Tags: 
+
+CSS Documentation:	
+
+*/
+/* @group Reset */
+
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input { margin: 0; padding: 0; }
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th { font-size: 1em; font-weight: normal; font-style: normal; }
+ul,ol { list-style: none;}
+a:focus {outline: none;}
+fieldset,img { border: none; }
+caption,th { text-align: left; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+/* @end */
+
+html { background-color: white; }
+body { width: 100%; margin:0 auto; background-color:transparent;
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+}
+
+/* @group Header */
+
+#headerFondo{
+	background: url(images/fondo.jpg) repeat;
+	width: 100%;
+}
+
+#header{
+	padding-top: 50px;;
+	width: 800px; margin:0 auto;
+	text-shadow: #fff 0 1px 2px;
+}
+#header h1{
+		text-align: center; 	opacity: 0.8;
+	font: 58px Georgia, "Times New Roman", Times, serif;
+	display: inline; width: 810px; border-style: none; float: left; height: 0; padding-top: 59px; overflow: hidden; background-image: url(images/CabeceraTitulos.png); background-repeat: no-repeat;
+}
+#header h2{
+	font: 24px Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	display: inline; width: 810px; border-style: none; float: left; height: 0; padding-top: 29px; overflow: hidden; background-image: url(images/CabeceraDetalles.png); background-repeat: no-repeat;
+}
+
+#header li{
+	display: inline;
+}
+
+#header h3{
+	font: 30px Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	display: inline; width: 810px; border-style: none; float: left; height: 0; padding-top: 42px; overflow: hidden; background-image: url(images/CabeceraInvitados.png); background-repeat: no-repeat;
+}
+
+#header p{
+	font: bold 18px Archer;
+	top: 0;
+	margin-top: 190px;
+	padding-bottom: 40px;
+}
+.CabeceraSombraUp{
+	width: 100%;
+	height: 10px;
+	background-image: url(images/CabeceraSombraUp.png)
+}
+.CabeceraSombraDown{
+	width: 100%;
+	height: 10px;
+	background-image: url(images/CabeceraSombraDown.png)
+}
+
+/* @end */
+
+/* @group HeaderLista */
+
+#headerLista{
+	padding-top: 50px;;
+	width: 800px; margin: 0 auto;
+	text-shadow: #fff 0 1px 2px;
+	padding-bottom: 200px;
+}
+#headerLista h1{
+		text-align: center; 	opacity: 0.8;
+	font: 58px Georgia, "Times New Roman", Times, serif;
+	display: inline; width: 810px; border-style: none; float: left; height: 0; padding-top: 59px; overflow: hidden; background-image: url(images/CabeceraTitulos.png); background-repeat: no-repeat;
+}
+#headerLista h2{
+	font: 24px Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	display: inline; width: 810px; border-style: none; float: left; height: 0; padding-top: 29px; overflow: hidden; background-image: url(images/CabeceraDetalles.png); background-repeat: no-repeat;
+}
+#headerLista h3{
+	font: 24px Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	display: inline; width: 810px; border-style: none; float: left; height: 0; padding-top: 30px; overflow: hidden; background-image: url(images/CabeceraLista.png); background-repeat: no-repeat;
+}
+#headerLista a#botonAnadir2 { width: 240px; border-style: none; float: right; height: 0; padding-top: 40px; overflow: hidden; background-image: url(images/botonAnadir.png); _background-image: url(images/botonAnadir.gif); background-repeat: no-repeat; margin-right: 0px; margin-top: 25px; margin-bottom: 25px;}
+#headerLista a#botonAnadir2 {background-position: 0 0;}
+#headerLista a#botonAnadir2:hover {background-position: 0 -40px;}
+#headerLista a#botonAnadir2:active {background-position: 0 -80px;}
+
+/* @end */
+
+/* @group Login */
+
+#logIn{
+	position: fixed;
+	width: 195px;
+	right: -2px;
+	top: 175px;
+	background-color: rgba(255,255,255,0.8);
+	padding: 20px;
+	-moz-border-radius-topleft:2ex;
+	-moz-border-radius-bottomleft:2ex;
+	-webkit-border-top-left-radius:2ex;
+	-webkit-border-bottom-left-radius:2ex;
+	border: 1px solid rgba(140,140,140,0.5);
+	font: 12px/18px Arial, Helvetica, Geneva, sans-serif;
+	-webkit-box-shadow: 0px 5px 5px #888;
+	-moz-box-shadow: 0px 5px 5px #888;
+}
+#logIn li{
+	list-style-type: none;
+}
+#logIn h2{
+	font-size: 18px;
+	list-style-type: none;
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+
+/* @end */
+
+#eviaIdea {
+	width: 500px;
+	height: 500px;
+}
+
+/* @group Cuerpo */
+
+#cuerpo{
+	background-color: white;
+	width: 900px; margin:0 auto;
+	color: #000;
+}
+
+/* @group Citas */
+#CitaSingle{
+	width: 900px; margin: 165px auto 0;
+	padding-bottom: 10px;
+}
+#CitaSingle #Invitados.Cita{
+	margin-bottom: 35px;
+}
+
+.Cita{
+	margin-top: 50px;
+	clear: both;
+	margin-bottom: 75px;
+}
+#Usuarios.Cita{
+	padding-bottom: 0;
+}
+span.QuoteMark{
+	font: 112px Arial, Helvetica, Geneva, sans-serif;
+	width: 50px;
+	float: left;
+	margin-top: -30px;
+}
+
+p.CitaTexto{
+	font: 18px/26px Arial;
+	padding-right: 50px;
+}
+
+p.CitaAutor{
+	font: italic 14px Arial, Helvetica, Geneva, sans-serif;
+	text-align: right;
+		padding-right: 50px;
+}
+
+.Cita li{
+	display: inline;
+	font: 14px Arial, Helvetica, Geneva, sans-serif;
+	color: rgba(0,0,0,0.7);
+}
+.Cita ul{
+	height: 20px;
+	width: 240px;
+	float: left;
+	padding-bottom: 15px;
+}
+.Cita ul#comentarUsuario{
+	height: 20px;
+	width: 480px;
+	float: left;
+	padding-bottom: 15px;
+	padding-top: 20px;
+}
+a.dsq-comment-count{
+	font-size: 14px;
+	text-decoration: none;
+	color: rgba(0,0,0,0.7);
+	display: inline;
+}
+/* @end */
+
+/* @group Comentarios */
+
+.CitaComentarios{
+	margin-top: 15px;
+}
+.commentarios{
+	width: 700px;
+	margin: 0 auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+p.ComentarioTexto{
+	font: 13px/19px Arial, Helvetica, Geneva, sans-serif;
+	color: #363636;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 15px;
+	margin-bottom: 10px;
+	width: 800px;
+	float: right;
+	background: url(images/comentarioSign.png) no-repeat;
+}
+.notaComentarios{
+	font: 13px/19px Arial, Helvetica, Geneva, sans-serif;
+	color: #4c4c4c;
+	padding-bottom: 25px;
+}
+.ComentarioTexto strong{
+	font-weight: bold;
+}
+
+.ComentarioFooter{
+	width: 800px;
+	marginn-right: 50px;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin-left: 40px;
+	margin-bottom: 25px;
+	border-top: 1px solid rgba(12,12,12,0.5);
+	clear: both;
+	text-align: right;
+	font: 14px Arial, Helvetica, Geneva, sans-serif;
+	color: rgba(0,0,0,0.7);
+}
+
+
+
+/* @end */
+
+
+
+/* @end */
+
+/* @group Botones */
+
+a.boton { display: inline; width: 120px; border-style: none; float: left; height: 0; padding-top: 20px; overflow: hidden; background-image: url(images/botones.png); _background-image: url(images/botones.gif); background-repeat: no-repeat; }
+a#botonAnadir { width: 240px; border-style: none; float: right; height: 0; padding-top: 40px; overflow: hidden; background-image: url(images/botonAnadir.png); _background-image: url(images/botonAnadir.gif); background-repeat: no-repeat; margin-right: 50px; margin-top: 25px; margin-bottom: 25px;}
+
+#botonHolder{
+	width: 440px;
+	height: 30px;
+	margin: 0 auto 45px;
+	padding-top: 20px;
+}
+
+a.botonMasIdeas { display: inline; width: 440px; border-style: none;float: left; height: 0px; padding-top: 30px; overflow: hidden; background-image: url(images/botonMasIdeas.png); _background-image: url(images/botonMasIdeas.gif); background-repeat: no-repeat;}
+a.boton.comentar.invitado {background-position: 0 0;}
+a.boton.gusta.invitado {background-position: -120px 0;}
+a.boton.comentar.usuario {background-position: -240px 0;}
+a.boton.gusta.usuario {background-position: -360px 0;}
+a#botonAnadir {background-position: 0 0;}
+a.botonMasIdeas {background-position: 0 0;}
+
+a.boton.comentar.invitado:hover {background-position: 0 -20px;}
+a.boton.gusta.invitado:hover {background-position: -120px -20px;}
+a.boton.comentar.usuario:hover {background-position: -240px -20px;}
+a.boton.gusta.usuario:hover {background-position: -360px -20px;}
+a#botonAnadir:hover {background-position: 0 -40px;}
+a.botonMasIdeas:hover {background-position: 0 -30px;}
+
+a.boton.comentar.invitado:active {background-position: 0 -40px;}
+a.boton.gusta.invitado:active {background-position: -120px -40px;}
+a.boton.comentar.usuario:active {background-position: -240px -40px;}
+a.boton.gusta.usuario:active {background-position: -360px -40px;}
+a#botonAnadir:active {background-position: 0 -80px;}
+a.botonMasIdeas:active {background-position: 0 -60px;}
+
+/* @end */
+
+/* @group Footer */
+
+#footerFondo{
+	background: url(images/fondo.jpg) repeat;
+	width: 100%;
+}
+
+#footer{
+	width: 900px; margin:0 auto;
+}
+
+#Explain {
+	font: bold 18px Archer;
+	padding-left: 50px;
+	padding-top: 25px;
+	width: 500px;
+	float: left;
+}
+
+/* @end */
+/* @group Creditos */
+
+#FondoCredits{
+	border-top: 2px dotted rgba(0,0,0,0.5);
+	width: 100%;
+}
+#Credits{
+	
+	width: 800px; margin:0 auto;
+	height: 100px;
+	color: rgba(0,0,0,0.68);
+	text-shadow: #fff 0 1px 2px;
+	padding-top: 25px;
+}
+#Credits a{
+	text-decoration: none;
+	color: rgba(0,0,0,0.68);	
+}
+#Credits a:hover{
+	text-decoration: none;
+	color: rgba(0,0,0,0.75);	
+}
+#CreditsDosymedio{
+	float: left;
+	font: bold 21px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#CreditsCOACO{
+	float: right;
+	font: 21px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#CreditsFooter{
+	color: #686868;
+	text-align: center;
+	font-size: 13px;
+	padding-bottom: 35px;
+}
+#CreditsFooter a{
+	text-decoration: none;
+	color: #000;
+}
+#CreditsFooter a:hover{
+	text-decoration: none;
+	color: rgba(0,0,0,0.67);
+}
+/* @end */

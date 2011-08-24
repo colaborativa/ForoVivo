@@ -1,0 +1,149 @@
+#fbconnect_enabled_link, .fbconnect_link,  #fbconnect_url, #commentform #fbconnect_url {
+	background: url('fbconnect.png') center left no-repeat; 
+	padding-left: 18px; 
+}
+
+body.login #fbconnect_url {
+	width: 92%;
+	font-size: 20px;
+	background-color: #FFF;
+	border: 1px solid #ccc;
+	padding: 3px 3px 3px 18px;
+	margin-right: 6px;
+}
+
+.fbnarrowcolumn {
+	overflow: hidden;
+	float: left;
+	display: block;
+	padding: 0 10px 20px 25px;
+	margin: 15px 0 0;
+	width: 500px;
+}
+	
+
+#fbconnect_rollup {
+	margin-top: 1em;
+}
+
+#fbconnect_rollup div div { margin: 0.5em; }
+#fbconnect_rollup ul { margin: 0; padding: 0 0 0 5em; }
+
+.fbconnect_userprofile{
+	display: block;
+	width: 100%;
+}
+
+.fbconnect_profiletexts{
+		float: left;
+		margin-left:5px !important;
+		display: block;
+	    width: 350px;
+}
+
+.fbconnect_LastUsers{
+	background-color: #d5d6d7;
+	margin-top:5px !important;
+	padding:3px !important;
+}
+
+.fbconnect_userpicmain{
+		display: block;
+	float: left;
+	border: 2px solid #d5d6d7;
+	margin-right:5px !important;
+	margin-bottom:2px !important;
+	overflow: hidden;
+	cursor:hand;
+}
+.fbconnect_miniprofiletext{
+	float: left;
+}
+
+
+.fbconnect_miniprofile{
+	overflow: hidden;
+	display: block;
+	margin-top:5px !important;
+}
+	
+.invitebutton{
+	overflow: hidden;
+	display: block;
+	width: 100%;
+	margin-top:5px !important;
+	margin-bottom:5px !important;
+}
+.fbconnect_userpics{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom:5px !important;
+	padding-bottom:5px !important;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.fbconnect_userpics a{
+	border: 2px solid white;
+	float: left;
+	display: block;
+	background-color: #d5d6d7;
+	margin-right:4px !important;
+	margin-bottom:4px !important;
+	font-size: 11px;
+	width: 50px;
+	height: 50px;
+	overflow: hidden;
+	cursor:hand;
+}
+.fbconnect_userpics2{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom:5px !important;
+	padding-bottom:5px !important;
+	border-bottom: 1px solid #CCCCCC;
+}
+.fbconnect_userpics2 a{
+	border: 2px solid #d5d6d7;
+	float: left;
+	display: block;
+	background-color: #d5d6d7;
+	margin-right:4px !important;
+	margin-bottom:4px !important;
+	font-size: 11px;
+	width: 50px;
+	height: 50px;
+	overflow: hidden;
+	cursor:hand;
+}
+
+.fbconnect_title{
+	margin-top:3px !important;
+	margin-bottom:8px !important;
+	
+	border-bottom: 1px solid #CCCCCC;
+	
+	
+	font-family: 'Trebuchet MS', Verdana, sans-serif;
+	font-size: x-small;
+	line-height: normal;
+	font-weight: normal;
+	
+	text-transform: uppercase;
+	letter-spacing: .3em;
+	text-align: left;
+}
+
+.fbconnect_share{
+	width: 95%;
+	border-top: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-right: 2px solid #CCCCCC;
+	border-bottom: 2px solid #CCCCCC;
+	margin: 3px;	
+	padding: 3px;
+	text-align: right;
+}
+.icon-text-middle{
+	vertical-align:middle;
+	margin-right:5px;
+}

@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-27 17:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eric.X\n"
+"Language-Team: Sociable <jreyes@sociable.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: community.php:18
+msgid "Community friends"
+msgstr "社区朋友"
+
+#: community.php:32
+msgid "Community"
+msgstr "社区"
+
+#: community.php:32
+msgid "members"
+msgstr "会员"
+
+#: community.php:48
+msgid "Previous page"
+msgstr "前一页"
+
+#: community.php:51
+msgid "Next page"
+msgstr "后一页"
+
+#: fbConnectCore.php:296
+msgid "Title:"
+msgstr "标题："
+
+#: fbConnectCore.php:297
+msgid "Welcome msg:"
+msgstr "欢迎信息："
+
+#: fbConnectCore.php:298
+msgid "Footer msg:"
+msgstr "版权信息："
+
+#: fbConnectCore.php:299
+msgid "Invite msg:"
+msgstr "邀请信息："
+
+#: fbConnectCore.php:300
+msgid "Visitors title:"
+msgstr "访客名称："
+
+#: fbConnectCore.php:301
+msgid "Login msg:"
+msgstr "登录信息："
+
+#: fbConnectCore.php:302
+msgid "Member msg:"
+msgstr "	会员信息："
+
+#: fbConnectCore.php:303
+msgid "Max users:"
+msgstr "最大用户："
+
+#: fbConnectCore.php:304
+msgid "Login button:"
+msgstr "登录按钮："
+
+#: fbConnectInterface.php:47
+msgid "Publish this comment to Facebook"
+msgstr "将此条留言提交到 Facebook"
+
+#: fbConnectInterface.php:172
+msgid "Facebook Connector Options"
+msgstr "Facebook Connector 选项"
+
+#: fbConnectInterface.php:177
+msgid "Facebook Application Configuration"
+msgstr "Facebook 应用程序配置"
+
+#: fbConnectInterface.php:180
+msgid "Facebook App. Config."
+msgstr "Facebook 应用程序配置"
+
+#: fbConnectInterface.php:182
+msgid "Go to Facebook Developer App"
+msgstr "进入 Facebook 开发者页面"
+
+#: fbConnectInterface.php:187
+msgid "Facebook API Key:"
+msgstr "Facebook API 密钥："
+
+#: fbConnectInterface.php:193
+msgid "Facebook API Secret:"
+msgstr "Facebook API 保密码："
+
+#: fbConnectInterface.php:199
+msgid "Automatic Approval:"
+msgstr "自动批准："
+
+#: fbConnectInterface.php:203
+msgid "Enable comment auto-approval"
+msgstr "启用自动批准评论"
+
+#: fbConnectInterface.php:208
+msgid "Comment Form:"
+msgstr "评论方式："
+
+#: fbConnectInterface.php:213
+msgid "Allow send user comments to Facebook."
+msgstr "允许发送用户留言到 Facebook。"
+
+#: fbConnectInterface.php:218
+msgid "Secure login:"
+msgstr "安全登录："
+
+#: fbConnectInterface.php:223
+msgid "Facebook Connect Via SSL."
+msgstr "通过SSL连接 Facebook。"
+
+#: fbConnectInterface.php:233
+msgid "Update Configuration"
+msgstr "更新配置"
+
+#: fbConnectInterface.php:239
+msgid "Comment templates"
+msgstr "	评论模板"
+
+#: fbConnectInterface.php:246
+msgid "No active Facebook template, please activate a template or create a new one!"
+msgstr "无效的 Facebook 模板，请启动或创建一个新的模板！"
+
+#: fbConnectInterface.php:248
+msgid "Templates not synchronized with Facebook, write the templates text and press create templates!"
+msgstr "与 Facebook 的模板不同步，创建模板！"
+
+#: fbConnectInterface.php:250
+msgid "Active Facebook template ID:"
+msgstr "已激活的 Facebook 模板编号："
+
+#: fbConnectInterface.php:257
+msgid "Template ID:"
+msgstr "模板编号："
+
+#: fbConnectInterface.php:257
+msgid "Activate template"
+msgstr "激活模板"
+
+#: fbConnectInterface.php:258
+msgid "Delete template"
+msgstr "删除模板"
+
+#: fbConnectInterface.php:260
+msgid "Active Facebook template"
+msgstr "激活 Facebook 模板"
+
+#: fbConnectInterface.php:263
+msgid "One line story:"
+msgstr "范本"
+
+#: fbConnectInterface.php:264
+msgid "Short story title:"
+msgstr "短篇文章标题："
+
+#: fbConnectInterface.php:265
+msgid "Short story body:"
+msgstr "短篇文章内容："
+
+#: fbConnectInterface.php:266
+msgid "Full story title:"
+msgstr "长篇文章标题："
+
+#: fbConnectInterface.php:267
+msgid "Full story body:"
+msgstr "长篇文章内容："
+
+#: fbConnectInterface.php:297
+msgid "One line stories template:"
+msgstr "范本模板："
+
+#: fbConnectInterface.php:303
+msgid "Short stories template:"
+msgstr "短篇文章模板："
+
+#: fbConnectInterface.php:305
+#: fbConnectInterface.php:314
+msgid "Title"
+msgstr "标题"
+
+#: fbConnectInterface.php:307
+#: fbConnectInterface.php:316
+msgid "Body"
+msgstr "内容"
+
+#: fbConnectInterface.php:312
+msgid "Full stories template:"
+msgstr "长篇文章模板："
+
+#: fbConnectInterface.php:324
+msgid "Create Template"
+msgstr "创建模板"
+
+#: fbconnect_widget.php:42
+msgid "view more..."
+msgstr "查看更多..."
+
+#: invitefriends.php:4
+msgid "Invite your friends"
+msgstr "邀请好友！"
+
+#: invitefriends.php:15
+msgid "Become a Member!"
+msgstr "成为会员！"
+
+#: invitefriends.php:21
+msgid "Select the friends you want to invite."
+msgstr "选择一个你想邀请的好友。"
+
+#: myhome.php:4
+msgid "User profile"
+msgstr "用户信息"
+
+#: myhome.php:16
+msgid "User comments"
+msgstr "用户留言"
+
+#: userprofile.php:25
+msgid "Status:"
+msgstr "状态："
+
+#: userprofile.php:26
+msgid "Name:"
+msgstr "名称："
+
+#: userprofile.php:27
+msgid "Nickname:"
+msgstr "昵称："
+
+#: userprofile.php:28
+msgid "Member since:"
+msgstr "注册时间："
+
+#: userprofile.php:29
+msgid "URL:"
+msgstr "网址："
+
+#: userprofile.php:30
+msgid "About me:"
+msgstr "关于我："
+

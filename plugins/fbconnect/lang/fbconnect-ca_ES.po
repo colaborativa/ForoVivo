@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-16 14:32+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Miquel Labòria <numialgui@gmail.com>\n"
+"Language-Team: Sociable <jreyes@sociable.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: community.php:18
+msgid "Community friends"
+msgstr "Amics a la comunitat"
+
+#: community.php:32
+msgid "Community"
+msgstr "Comunitat"
+
+#: community.php:32
+msgid "members"
+msgstr "membres"
+
+#: community.php:48
+msgid "Previous page"
+msgstr "Pàgina anterior"
+
+#: community.php:51
+msgid "Next page"
+msgstr "Pàgina següent"
+
+#: fbConnectCore.php:296
+msgid "Title:"
+msgstr "Títol:"
+
+#: fbConnectCore.php:297
+msgid "Welcome msg:"
+msgstr "Text capçalera:"
+
+#: fbConnectCore.php:298
+msgid "Footer msg:"
+msgstr "Text peu:"
+
+#: fbConnectCore.php:299
+msgid "Invite msg:"
+msgstr "Text invitació:"
+
+#: fbConnectCore.php:300
+msgid "Visitors title:"
+msgstr "Text visites:"
+
+#: fbConnectCore.php:301
+msgid "Login msg:"
+msgstr "Text login:"
+
+#: fbConnectCore.php:302
+msgid "Member msg:"
+msgstr "Text login:"
+
+#: fbConnectCore.php:303
+msgid "Max users:"
+msgstr "Màx. fotos:"
+
+#: fbConnectCore.php:304
+msgid "Login button:"
+msgstr "Facebook Login:"
+
+#: fbConnectInterface.php:47
+msgid "Publish this comment to Facebook"
+msgstr "Publica el comentari a Facebook"
+
+#: fbConnectInterface.php:56
+msgid "The WordPress fbconnect plugin is not active."
+msgstr "El plugin de Facebook Connect para Wordpress no est&aacute; activo."
+
+#: fbConnectInterface.php:57
+#, php-format
+msgid "Check %sfbconnect Options%s for a full diagnositic report."
+msgstr "Comprova %sfbconnect Options%s per a un diagnòstic complert."
+
+#: fbConnectInterface.php:68
+msgid "fbconnect options"
+msgstr "Opciones de FBConnect"
+
+#: fbConnectInterface.php:68
+msgid "Facebook Connector"
+msgstr "Facebook Connector"
+
+#: fbConnectInterface.php:110
+msgid "At least one of Facebook Connector options was NOT updated"
+msgstr "Al menos una de las opciones de Facebook Connector no se ha actualizado."
+
+#: fbConnectInterface.php:112
+msgid "Facebook Connector options updated"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: fbConnectInterface.php:133
+msgid "Error updating Facebook templates!"
+msgstr "Se ha producido un error al actualizar las plantillas de Facebook!"
+
+#: fbConnectInterface.php:135
+msgid "Facebook templates updated! Templates ID:"
+msgstr "Plantillas de Facebook actualizadas!, ID de la platilla:"
+
+#: fbConnectInterface.php:172
+msgid "Facebook Connector Options"
+msgstr "Configuració del Facebook Connector"
+
+#: fbConnectInterface.php:177
+msgid "Facebook Application Configuration"
+msgstr "Configuració de l'aplicaci&oacute; Facebook:"
+
+#: fbConnectInterface.php:180
+msgid "Facebook App. Config."
+msgstr "Configuraci&oacute; aplicaci&oacute; Facebook:"
+
+#: fbConnectInterface.php:182
+msgid "Go to Facebook Developer App"
+msgstr "Anar a la configuraci&oacute; d'aplicacions de Facebook"
+
+#: fbConnectInterface.php:187
+msgid "Facebook API Key:"
+msgstr "Facebook API Key (Clau API):"
+
+#: fbConnectInterface.php:193
+msgid "Facebook API Secret:"
+msgstr "Facebook API Secret (Secret):"
+
+#: fbConnectInterface.php:199
+msgid "Automatic Approval:"
+msgstr "Aprovació automàtica:"
+
+#: fbConnectInterface.php:203
+msgid "Enable comment auto-approval"
+msgstr "Habilita aprovaci&oacute; automàtica dels comentaris"
+
+#: fbConnectInterface.php:208
+msgid "Comment Form:"
+msgstr "Formulari de comentaris:"
+
+#: fbConnectInterface.php:213
+msgid "Allow send user comments to Facebook."
+msgstr "Permetre l'enviament de comentaris a Facebook."
+
+#: fbConnectInterface.php:218
+msgid "Secure login:"
+msgstr "Login segur:"
+
+#: fbConnectInterface.php:223
+msgid "Facebook Connect Via SSL."
+msgstr "Login de Facebook segur mitjançant SSL."
+
+#: fbConnectInterface.php:233
+msgid "Update Configuration"
+msgstr "Actualiza configuració"
+
+#: fbConnectInterface.php:239
+msgid "Comment templates"
+msgstr "Plantilles de comentaris"
+
+#: fbConnectInterface.php:246
+msgid "No active Facebook template, please activate a template or create a new one!"
+msgstr "No hi ha cap plantilla activa, si us plau activeu una plantilla de Facebook per l'enviament de comentaris."
+
+#: fbConnectInterface.php:248
+msgid "Templates not synchronized with Facebook, write the templates text and press create templates!"
+msgstr "No existeixen plantilles de comentaris a Facebook, modifiqueu la plantilla d'exemple i feu clic a crea plantilla."
+
+#: fbConnectInterface.php:250
+msgid "Active Facebook template ID:"
+msgstr "ID de plantilla activa:"
+
+#: fbConnectInterface.php:257
+msgid "Template ID:"
+msgstr "ID de la plantilla:"
+
+#: fbConnectInterface.php:257
+msgid "Activate template"
+msgstr "Activa plantilla"
+
+#: fbConnectInterface.php:258
+msgid "Delete template"
+msgstr "Elimina plantilla"
+
+#: fbConnectInterface.php:260
+msgid "Active Facebook template"
+msgstr "Plantilla de Facebook activa"
+
+#: fbConnectInterface.php:263
+msgid "One line story:"
+msgstr "Plantilla de una linia:"
+
+#: fbConnectInterface.php:264
+msgid "Short story title:"
+msgstr "Títol plantilla curta:"
+
+#: fbConnectInterface.php:265
+msgid "Short story body:"
+msgstr "Missatge de plantilla curta:"
+
+#: fbConnectInterface.php:266
+msgid "Full story title:"
+msgstr "Títol plantilla llarga:"
+
+#: fbConnectInterface.php:267
+msgid "Full story body:"
+msgstr "Missatge plantilla llarga:"
+
+#: fbConnectInterface.php:297
+msgid "One line stories template:"
+msgstr "Plantilla d'una linia (one line):"
+
+#: fbConnectInterface.php:303
+msgid "Short stories template:"
+msgstr "Plantilla curta (Short storie):"
+
+#: fbConnectInterface.php:305
+#: fbConnectInterface.php:314
+msgid "Title"
+msgstr "Títol"
+
+#: fbConnectInterface.php:307
+#: fbConnectInterface.php:316
+msgid "Body"
+msgstr "Missatge"
+
+#: fbConnectInterface.php:312
+msgid "Full stories template:"
+msgstr "Plantilla llarga (full storie):"
+
+#: fbConnectInterface.php:324
+msgid "Create Template"
+msgstr "Crea plantilla"
+
+#: fbconnect_widget.php:42
+msgid "view more..."
+msgstr "veure'n més..."
+
+#: invitefriends.php:4
+msgid "Invite your friends"
+msgstr "Convida als teus amics"
+
+#: invitefriends.php:15
+msgid "Become a Member!"
+msgstr "Visita la pàgina"
+
+#: invitefriends.php:21
+msgid "Select the friends you want to invite."
+msgstr "Selecciona els amics que vols convidar."
+
+#: myhome.php:4
+msgid "User profile"
+msgstr "Perfil de l'usuari"
+
+#: myhome.php:16
+msgid "User comments"
+msgstr "Comentaris de l'usuari"
+
+#: userprofile.php:25
+msgid "Status:"
+msgstr "Estat:"
+
+#: userprofile.php:26
+msgid "Name:"
+msgstr "Nom:"
+
+#: userprofile.php:27
+msgid "Nickname:"
+msgstr "Àlies:"
+
+#: userprofile.php:28
+msgid "Member since:"
+msgstr "Membre des de:"
+
+#: userprofile.php:29
+msgid "URL:"
+msgstr "Adreça:"
+
+#: userprofile.php:30
+msgid "About me:"
+msgstr "Sobre mi:"
+

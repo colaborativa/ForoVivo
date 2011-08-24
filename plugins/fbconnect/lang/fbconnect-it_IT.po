@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-06 12:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Valentino <valentino.aluigi@gmail.com>\n"
+"Language-Team: Maverick <valentino.aluigi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:\\Programmi\\xampp\\htdocs\\facebook-connect\n"
+"X-Poedit-SearchPath-0: C:\\Programmi\\xampp\\htdocs\\facebook-connect\n"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/community.php:18
+#, fuzzy
+msgid "Community friends"
+msgstr "Invita i tuoi amici"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/community.php:32
+msgid "Community"
+msgstr "Community"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/community.php:32
+#, fuzzy
+msgid "members"
+msgstr "Membro da:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/community.php:48
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/community.php:51
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbconnect_widget.php:42
+msgid "view more..."
+msgstr "E tutti gli altri..."
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:296
+#, fuzzy
+msgid "Title:"
+msgstr "Titolo"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:297
+msgid "Welcome msg:"
+msgstr "Messaggio di benvenuto:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:298
+msgid "Footer msg:"
+msgstr "Piè pagina:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:299
+msgid "Invite msg:"
+msgstr "Messaggio di invito:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:300
+msgid "Visitors title:"
+msgstr "Titolo visitatori:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:301
+msgid "Login msg:"
+msgstr "Messagio di login:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:302
+#, fuzzy
+msgid "Member msg:"
+msgstr "Membro da:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:303
+msgid "Max users:"
+msgstr "Numero massimo utenti:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectCore.php:304
+msgid "Login button:"
+msgstr "Pulsante di login:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:47
+msgid "Publish this comment to Facebook"
+msgstr "Pubblica questo commento su Facebook"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:56
+msgid "The WordPress fbconnect plugin is not active."
+msgstr "Il plugin fbconnet non è attivo."
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:57
+#, php-format
+msgid "Check %sfbconnect Options%s for a full diagnositic report."
+msgstr "Controlla le %sopzioni di sfbconnect%s per un report diagnostico completo."
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:68
+#, fuzzy
+msgid "fbconnect options"
+msgstr "Opzioni di Facebook Connector"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:68
+#, fuzzy
+msgid "Facebook Connector"
+msgstr "Opzioni di Facebook Connector"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:110
+msgid "At least one of Facebook Connector options was NOT updated"
+msgstr "Al meno una opzione di Facebook Connector NON è stata aggiornata"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:112
+#, fuzzy
+msgid "Facebook Connector options updated"
+msgstr "Opzioni di Facebook Connector"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:133
+msgid "Error updating Facebook templates!"
+msgstr "Errore durante l'aggiornamento dei templates Facebook!"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:135
+msgid "Facebook templates updated! Templates ID:"
+msgstr "Templated Facebook aggiornati! Templates ID:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:172
+msgid "Facebook Connector Options"
+msgstr "Opzioni di Facebook Connector"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:177
+msgid "Facebook Application Configuration"
+msgstr "Configurazione di Facebook Application"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:180
+msgid "Facebook App. Config."
+msgstr "Conf. App. Facebook"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:182
+msgid "Go to Facebook Developer App"
+msgstr "Visita Facevook Developer App"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:187
+msgid "Facebook API Key:"
+msgstr "Facebook API Key:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:193
+msgid "Facebook API Secret:"
+msgstr "Facebook API Secret:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:199
+msgid "Automatic Approval:"
+msgstr "Approvazione Automatica:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:203
+msgid "Enable comment auto-approval"
+msgstr "Abilita l'auto-approvazione dei commenti"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:208
+msgid "Comment Form:"
+msgstr "Commenti:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:213
+msgid "Allow send user comments to Facebook."
+msgstr "Permetti di inviare i commenti degli utenti su Facebook."
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:218
+msgid "Secure login:"
+msgstr "Login protetto:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:223
+msgid "Facebook Connect Via SSL."
+msgstr "Colelgati a Facebook tramite SSL."
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:233
+msgid "Update Configuration"
+msgstr "Aggiorna Configurazione"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:239
+msgid "Comment templates"
+msgstr "Templates dei commenti"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:246
+msgid "No active Facebook template, please activate a template or create a new one!"
+msgstr "Nessun template Facebook attivo. Attivare un tempate o crearne uno nuovo!"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:248
+msgid "Templates not synchronized with Facebook, write the templates text and press create templates!"
+msgstr "Templates non sincronizzati con Facebook. Scrivi il testo per i templates e clicca \"crea templates\"!"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:250
+msgid "Active Facebook template ID:"
+msgstr "ID del template Facebook attivo:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:257
+msgid "Template ID:"
+msgstr "Template ID:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:257
+#, fuzzy
+msgid "Activate template"
+msgstr "Crea Template"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:258
+#, fuzzy
+msgid "Delete template"
+msgstr "Crea Template"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:260
+msgid "Active Facebook template"
+msgstr "Template Facebook attivo"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:263
+#, fuzzy
+msgid "One line story:"
+msgstr "Template per le one-line stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:264
+#, fuzzy
+msgid "Short story title:"
+msgstr "Template per le short-stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:265
+#, fuzzy
+msgid "Short story body:"
+msgstr "Template per le short-stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:266
+#, fuzzy
+msgid "Full story title:"
+msgstr "Template per le full-stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:267
+msgid "Full story body:"
+msgstr "Corpo della full-story:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:297
+msgid "One line stories template:"
+msgstr "Template per le one-line stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:303
+msgid "Short stories template:"
+msgstr "Template per le short-stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:305
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:314
+msgid "Title"
+msgstr "Titolo"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:307
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:316
+msgid "Body"
+msgstr "Corpo"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:312
+msgid "Full stories template:"
+msgstr "Template per le full-stories:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/fbConnectInterface.php:324
+msgid "Create Template"
+msgstr "Crea Template"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/invitefriends.php:4
+msgid "Invite your friends"
+msgstr "Invita i tuoi amici"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/invitefriends.php:15
+msgid "Become a Member!"
+msgstr "Diventa socio!"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/invitefriends.php:21
+msgid "Select the friends you want to invite."
+msgstr "Seleziona gli amici che vuoi invitare."
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/myhome.php:4
+msgid "User profile"
+msgstr "Profilo utente"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/myhome.php:16
+msgid "User comments"
+msgstr "Commenti degli utenti"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/userprofile.php:25
+msgid "Status:"
+msgstr "Stato:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/userprofile.php:26
+msgid "Name:"
+msgstr "Nome:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/userprofile.php:27
+msgid "Nickname:"
+msgstr "Nickname:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/userprofile.php:28
+msgid "Member since:"
+msgstr "Membro da:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/userprofile.php:29
+msgid "URL:"
+msgstr "URL:"
+
+#: C:\Programmi\xampp\htdocs\facebook-connect/userprofile.php:30
+msgid "About me:"
+msgstr "Chi sono:"
+

@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-27 17:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mathieu DHORDAIN <mathieu@dhordain.com>\n"
+"Language-Team: Sociable <jreyes@sociable.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: community.php:18
+msgid "Community friends"
+msgstr "Amis de la communauté"
+
+#: community.php:32
+msgid "Community"
+msgstr "Communauté"
+
+#: community.php:32
+msgid "members"
+msgstr "membres"
+
+#: community.php:48
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: community.php:51
+msgid "Next page"
+msgstr "Page suivante"
+
+#: fbConnectCore.php:296
+msgid "Title:"
+msgstr "Titre :"
+
+#: fbConnectCore.php:297
+msgid "Welcome msg:"
+msgstr "Message de bienvenue :"
+
+#: fbConnectCore.php:298
+msgid "Footer msg:"
+msgstr "Message du pied de page :"
+
+#: fbConnectCore.php:299
+msgid "Invite msg:"
+msgstr "Message d'invitation :"
+
+#: fbConnectCore.php:300
+msgid "Visitors title:"
+msgstr "Titre du visiteur :"
+
+#: fbConnectCore.php:301
+msgid "Login msg:"
+msgstr "Message d'identification :"
+
+#: fbConnectCore.php:302
+msgid "Member msg:"
+msgstr "Message de membre :"
+
+#: fbConnectCore.php:303
+msgid "Max users:"
+msgstr "Maximum de membres :"
+
+#: fbConnectCore.php:304
+msgid "Login button:"
+msgstr "Bouton d'identification :"
+
+#: fbConnectInterface.php:47
+msgid "Publish this comment to Facebook"
+msgstr "Publier ce commentaire sur Facebook"
+
+#: fbConnectInterface.php:172
+msgid "Facebook Connector Options"
+msgstr "Options de Facebook Connector"
+
+#: fbConnectInterface.php:177
+msgid "Facebook Application Configuration"
+msgstr "Configuration de l'application Facebook"
+
+#: fbConnectInterface.php:180
+msgid "Facebook App. Config."
+msgstr "Config. App. Facebook"
+
+#: fbConnectInterface.php:182
+msgid "Go to Facebook Developer App"
+msgstr "Accéder à l'application Facebook Developer"
+
+#: fbConnectInterface.php:187
+msgid "Facebook API Key:"
+msgstr "Clé API Facebook"
+
+#: fbConnectInterface.php:193
+msgid "Facebook API Secret:"
+msgstr "Secret API Facebook"
+
+#: fbConnectInterface.php:199
+msgid "Automatic Approval:"
+msgstr "Approbation automatique"
+
+#: fbConnectInterface.php:203
+msgid "Enable comment auto-approval"
+msgstr "Activer l'approbation automatique des commentaires"
+
+#: fbConnectInterface.php:208
+msgid "Comment Form:"
+msgstr "Formulaire de commentaire"
+
+#: fbConnectInterface.php:213
+msgid "Allow send user comments to Facebook."
+msgstr "Autoriser les membres à envoyer les commentaires sur Facebook"
+
+#: fbConnectInterface.php:218
+msgid "Secure login:"
+msgstr "Identification sécurisée"
+
+#: fbConnectInterface.php:223
+msgid "Facebook Connect Via SSL."
+msgstr "Facebook Connect par SSL"
+
+#: fbConnectInterface.php:233
+msgid "Update Configuration"
+msgstr "Configuration de mise à jour"
+
+#: fbConnectInterface.php:239
+msgid "Comment templates"
+msgstr "Thèmes de commentaires"
+
+#: fbConnectInterface.php:246
+msgid "No active Facebook template, please activate a template or create a new one!"
+msgstr "Aucun thème Facebook défini. Merci d'activer un thème ou d'en créer un nouveau !"
+
+#: fbConnectInterface.php:248
+msgid "Templates not synchronized with Facebook, write the templates text and press create templates!"
+msgstr "Thèmes non synchronisés avec Facebook. Tapez les textes des thèmes et cliquez sur \"Créer le thème\""
+
+#: fbConnectInterface.php:250
+msgid "Active Facebook template ID:"
+msgstr "ID du thème actif :"
+
+#: fbConnectInterface.php:257
+msgid "Template ID:"
+msgstr "Thème ID :"
+
+#: fbConnectInterface.php:257
+msgid "Activate template"
+msgstr "Activer le thème"
+
+#: fbConnectInterface.php:258
+msgid "Delete template"
+msgstr "Effacer le thème"
+
+#: fbConnectInterface.php:260
+msgid "Active Facebook template"
+msgstr "Activer le thème Facebook"
+
+#: fbConnectInterface.php:263
+msgid "One line story:"
+msgstr "Citation d'une ligne :"
+
+#: fbConnectInterface.php:264
+msgid "Short story title:"
+msgstr "Titre de la citation courte :"
+
+#: fbConnectInterface.php:265
+msgid "Short story body:"
+msgstr "Body de la citation courte :"
+
+#: fbConnectInterface.php:266
+msgid "Full story title:"
+msgstr "Titre de la citation complète :"
+
+#: fbConnectInterface.php:267
+msgid "Full story body:"
+msgstr "Body de la citation complète :"
+
+#: fbConnectInterface.php:297
+msgid "One line stories template:"
+msgstr "Thème de la citation d'une ligne :"
+
+#: fbConnectInterface.php:303
+msgid "Short stories template:"
+msgstr "Thème de la citation courte :"
+
+#: fbConnectInterface.php:305
+#: fbConnectInterface.php:314
+msgid "Title"
+msgstr "Titre"
+
+#: fbConnectInterface.php:307
+#: fbConnectInterface.php:316
+msgid "Body"
+msgstr "Body"
+
+#: fbConnectInterface.php:312
+msgid "Full stories template:"
+msgstr "Thème de la citation complète :"
+
+#: fbConnectInterface.php:324
+msgid "Create Template"
+msgstr "Créer le thème"
+
+#: fbconnect_widget.php:42
+msgid "view more..."
+msgstr "voir plus..."
+
+#: invitefriends.php:4
+msgid "Invite your friends"
+msgstr "Inviter vos contacts"
+
+#: invitefriends.php:15
+msgid "Become a Member!"
+msgstr "Devenir membre !"
+
+#: invitefriends.php:21
+msgid "Select the friends you want to invite."
+msgstr "Sélectionner les contacts que vous souhaitez inviter."
+
+#: myhome.php:4
+msgid "User profile"
+msgstr "Profil du membre"
+
+#: myhome.php:16
+msgid "User comments"
+msgstr "Commentaires du membre"
+
+#: userprofile.php:25
+msgid "Status:"
+msgstr "Status :"
+
+#: userprofile.php:26
+msgid "Name:"
+msgstr "Nom :"
+
+#: userprofile.php:27
+msgid "Nickname:"
+msgstr "Pseudo :"
+
+#: userprofile.php:28
+msgid "Member since:"
+msgstr "Membre depuis :"
+
+#: userprofile.php:29
+msgid "URL:"
+msgstr "URL :"
+
+#: userprofile.php:30
+msgid "About me:"
+msgstr "A propos :"
+

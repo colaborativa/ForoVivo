@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-27 17:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sebastian Schwittay <sebastianschwittay@gmail.com>\n"
+"Language-Team: Sociable <jreyes@sociable.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: community.php:18
+msgid "Community friends"
+msgstr "Community Freunde"
+
+#: community.php:32
+msgid "Community"
+msgstr "Community"
+
+#: community.php:32
+msgid "members"
+msgstr "Mitglieder"
+
+#: community.php:48
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: community.php:51
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: fbConnectCore.php:296
+msgid "Title:"
+msgstr "Titel:"
+
+#: fbConnectCore.php:297
+msgid "Welcome msg:"
+msgstr "Begrüßungstext:"
+
+#: fbConnectCore.php:298
+msgid "Footer msg:"
+msgstr "Footer-Text:"
+
+#: fbConnectCore.php:299
+msgid "Invite msg:"
+msgstr "Einladungstext:"
+
+#: fbConnectCore.php:300
+msgid "Visitors title:"
+msgstr "Besucher Titel:"
+
+#: fbConnectCore.php:301
+msgid "Login msg:"
+msgstr "Login-Nachricht:"
+
+#: fbConnectCore.php:302
+msgid "Member msg:"
+msgstr "Mitgliedsnachricht:"
+
+#: fbConnectCore.php:303
+msgid "Max users:"
+msgstr "Max. Nutzer:"
+
+#: fbConnectCore.php:304
+msgid "Login button:"
+msgstr "Loginbutton:"
+
+#: fbConnectInterface.php:47
+msgid "Publish this comment to Facebook"
+msgstr "Veröffentliche diesen Kommentar auf Facebook"
+
+#: fbConnectInterface.php:172
+msgid "Facebook Connector Options"
+msgstr "Facebook Connector Optionen"
+
+#: fbConnectInterface.php:177
+msgid "Facebook Application Configuration"
+msgstr "Facebook-Anwendungs Konfiguration"
+
+#: fbConnectInterface.php:180
+msgid "Facebook App. Config."
+msgstr "Facebook-Anwendungs Konfiguration"
+
+#: fbConnectInterface.php:182
+msgid "Go to Facebook Developer App"
+msgstr "Gehe zur Facebook Developer Anwendung"
+
+#: fbConnectInterface.php:187
+msgid "Facebook API Key:"
+msgstr "Facebook API Key:"
+
+#: fbConnectInterface.php:193
+msgid "Facebook API Secret:"
+msgstr "Facebook API Secret:"
+
+#: fbConnectInterface.php:199
+msgid "Automatic Approval:"
+msgstr "Automatische Bestätigung:"
+
+#: fbConnectInterface.php:203
+msgid "Enable comment auto-approval"
+msgstr "Aktiviere automatische Kommentargenehmigung"
+
+#: fbConnectInterface.php:208
+msgid "Comment Form:"
+msgstr "Kommentar-Formular:"
+
+#: fbConnectInterface.php:213
+msgid "Allow send user comments to Facebook."
+msgstr "Erlaube Nutzern Kommentare an Facebook zu senden."
+
+#: fbConnectInterface.php:218
+msgid "Secure login:"
+msgstr "Sicherer Login:"
+
+#: fbConnectInterface.php:223
+msgid "Facebook Connect Via SSL."
+msgstr "Facebook Connect via SSL."
+
+#: fbConnectInterface.php:233
+msgid "Update Configuration"
+msgstr "Konfiguration aktualisieren"
+
+#: fbConnectInterface.php:239
+msgid "Comment templates"
+msgstr "Kommentar-Template"
+
+#: fbConnectInterface.php:246
+msgid "No active Facebook template, please activate a template or create a new one!"
+msgstr "Kein aktives Facebook-Template. Bitte Template aktivieren oder ein neues Template erstellen."
+
+#: fbConnectInterface.php:248
+msgid "Templates not synchronized with Facebook, write the templates text and press create templates!"
+msgstr "Die Templates sind nicht mit Facebook synchronisiert, bitte schreibe den Template-Text und klicke auf \"Template Erzeugen\"."
+
+#: fbConnectInterface.php:250
+msgid "Active Facebook template ID:"
+msgstr "ID des aktiven Facebook-Templates:"
+
+#: fbConnectInterface.php:257
+msgid "Template ID:"
+msgstr "Template ID:"
+
+#: fbConnectInterface.php:257
+msgid "Activate template"
+msgstr "Template aktivieren"
+
+#: fbConnectInterface.php:258
+msgid "Delete template"
+msgstr "Template löschen"
+
+#: fbConnectInterface.php:260
+msgid "Active Facebook template"
+msgstr "Aktives Facebook Template"
+
+#: fbConnectInterface.php:263
+msgid "One line story:"
+msgstr "Einzeiliger Auszug:"
+
+#: fbConnectInterface.php:264
+msgid "Short story title:"
+msgstr "Kurz-Auszug Titel:"
+
+#: fbConnectInterface.php:265
+msgid "Short story body:"
+msgstr "Kurz-Auszug Body:"
+
+#: fbConnectInterface.php:266
+msgid "Full story title:"
+msgstr "Komplett-Story Titel:"
+
+#: fbConnectInterface.php:267
+msgid "Full story body:"
+msgstr "Komplett-Story Body:"
+
+#: fbConnectInterface.php:297
+msgid "One line stories template:"
+msgstr "Template für einzeiligen Auszug:"
+
+#: fbConnectInterface.php:303
+msgid "Short stories template:"
+msgstr "Template für Kurz-Auszug:"
+
+#: fbConnectInterface.php:305
+#: fbConnectInterface.php:314
+msgid "Title"
+msgstr "Titel"
+
+#: fbConnectInterface.php:307
+#: fbConnectInterface.php:316
+msgid "Body"
+msgstr "Body"
+
+#: fbConnectInterface.php:312
+msgid "Full stories template:"
+msgstr "Template für Komplett-Story:"
+
+#: fbConnectInterface.php:324
+msgid "Create Template"
+msgstr "Template Erzeugen"
+
+#: fbconnect_widget.php:42
+msgid "view more..."
+msgstr "mehr..."
+
+#: invitefriends.php:4
+msgid "Invite your friends"
+msgstr "Freunde einladen"
+
+#: invitefriends.php:15
+msgid "Become a Member!"
+msgstr "Mitglied werden!"
+
+#: invitefriends.php:21
+msgid "Select the friends you want to invite."
+msgstr "Bitte Freunde zum Einladen auswählen."
+
+#: myhome.php:4
+msgid "User profile"
+msgstr "Benutzer Profil"
+
+#: myhome.php:16
+msgid "User comments"
+msgstr "Benutzer Kommentare"
+
+#: userprofile.php:25
+msgid "Status:"
+msgstr "Status:"
+
+#: userprofile.php:26
+msgid "Name:"
+msgstr "Name:"
+
+#: userprofile.php:27
+msgid "Nickname:"
+msgstr "Nickname:"
+
+#: userprofile.php:28
+msgid "Member since:"
+msgstr "Mitglied seit:"
+
+#: userprofile.php:29
+msgid "URL:"
+msgstr "URL:"
+
+#: userprofile.php:30
+msgid "About me:"
+msgstr "Über mich:"
+
